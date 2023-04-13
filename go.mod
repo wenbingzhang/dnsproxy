@@ -10,7 +10,6 @@ require (
 )
 
 require (
-	github.com/go-resty/resty/v2 v2.7.0 // indirect
 	github.com/karlseguin/expect v1.0.8 // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/net v0.2.0 // indirect
